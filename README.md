@@ -1,2 +1,3 @@
 # kittyconf
-# kittyconf
+
+ln -s kittyconf/ kitty
